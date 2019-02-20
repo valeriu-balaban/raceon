@@ -10,6 +10,7 @@ Welcome to Race On's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   parts-list
 
 
 Indices and tables
