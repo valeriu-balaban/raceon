@@ -20,7 +20,9 @@ Parts List
   #. Pi Camera – `Raspberry Pi 8MP Camera Board Vesion 2 <https://www.newark.com/raspberry-pi/rpi-8mp-camera-board/camera-board-8-mp-raspberry-pi/dp/77Y6521>`_
   #. SD Card – `MicroSD Card, Class 10, 16 GB <https://www.newark.com/verbatim/44082/blank-media-flash-memory-type/dp/33AC3704>`_
   #. Pi HAT – `Adafruit Perma-Proto HAT for Pi Mini Kit - No EEPROM <https://www.adafruit.com/product/2310>`_
+
 * Battery Charger (not included)
+
   #. Charger with LCD – `IMAX B6 AC-DC Charger 5A 50W With US Plug <https://hobbyking.com/en_us/imax-b6-ac-dc-charger-5a-50w-with-us-plug-copy.html>`_
   #. Charger without LCD – `Turnigy E3 Compact 2S/3S Lipo Charger 100-240v <https://hobbyking.com/en_us/turnigy-e3-compact-2s-3s-lipo-charger-100-240v-us-plug.html>`_
   #. Battery Alarm – `HobbyKing™ Lipoly Low Voltage Alarm (2s~4s) <https://hobbyking.com/en_us/hobbykingtm-lipoly-low-voltage-alarm-2s-4s.html>`_
